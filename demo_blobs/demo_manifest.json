@@ -1,0 +1,18 @@
+{
+  "createdUtc": "2026-01-13T18:08:41.4019920Z",
+  "blobs": [
+    {
+      "file": "demo_xor_embedded_pe_key0x5A.bin",
+      "description": "XOR-obfuscated toy buffer. After XOR with key, it contains MZ \u002B e_lfanew \u002B PE\\0\\0.",
+      "expected": {
+        "engine": "xor",
+        "variant": "xor-1byte:5A",
+        "embeddedPeOffset": 0
+      }
+    },
+    {
+      "file": "demo_noise.bin",
+      "description": "Random noise blob for contrast. Should not produce PE hits."
+    }
+  ]
+}

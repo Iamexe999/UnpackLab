@@ -1,0 +1,106 @@
+[
+  {
+    "source": ".idata",
+    "fileOffset": 23040,
+    "size": 4096,
+    "entropy": 4.434146132310983,
+    "output": "000_.idata_off0x5A00_sz0x1000.bin",
+    "embeddedPEOffsets": []
+  },
+  {
+    "source": ".tls",
+    "fileOffset": 27136,
+    "size": 512,
+    "entropy": 0,
+    "output": "001_.tls_off0x6A00_sz0x200.bin",
+    "embeddedPEOffsets": []
+  },
+  {
+    "source": ".rsrc",
+    "fileOffset": 27648,
+    "size": 1536,
+    "entropy": 4.778477168376258,
+    "output": "002_.rsrc_off0x6C00_sz0x600.bin",
+    "embeddedPEOffsets": []
+  },
+  {
+    "source": ".reloc",
+    "fileOffset": 29184,
+    "size": 512,
+    "entropy": 1.655412963602239,
+    "output": "003_.reloc_off0x7200_sz0x200.bin",
+    "embeddedPEOffsets": []
+  },
+  {
+    "source": "/4",
+    "fileOffset": 29696,
+    "size": 1536,
+    "entropy": 1.3174977650489796,
+    "output": "004__4_off0x7400_sz0x600.bin",
+    "embeddedPEOffsets": []
+  },
+  {
+    "source": "/19",
+    "fileOffset": 31232,
+    "size": 40960,
+    "entropy": 5.863729602307902,
+    "output": "005__19_off0x7A00_sz0xA000.bin",
+    "embeddedPEOffsets": []
+  },
+  {
+    "source": "/31",
+    "fileOffset": 72192,
+    "size": 7680,
+    "entropy": 4.814001286632056,
+    "output": "006__31_off0x11A00_sz0x1E00.bin",
+    "embeddedPEOffsets": []
+  },
+  {
+    "source": "/45",
+    "fileOffset": 79872,
+    "size": 7680,
+    "entropy": 4.837187610360206,
+    "output": "007__45_off0x13800_sz0x1E00.bin",
+    "embeddedPEOffsets": []
+  },
+  {
+    "source": "/57",
+    "fileOffset": 87552,
+    "size": 2560,
+    "entropy": 3.5877170801552705,
+    "output": "008__57_off0x15600_sz0xA00.bin",
+    "embeddedPEOffsets": []
+  },
+  {
+    "source": "/70",
+    "fileOffset": 90112,
+    "size": 1024,
+    "entropy": 3.9923561608390723,
+    "output": "009__70_off0x16000_sz0x400.bin",
+    "embeddedPEOffsets": []
+  },
+  {
+    "source": "/81",
+    "fileOffset": 91136,
+    "size": 6144,
+    "entropy": 4.877644209995727,
+    "output": "010__81_off0x16400_sz0x1800.bin",
+    "embeddedPEOffsets": []
+  },
+  {
+    "source": "/97",
+    "fileOffset": 97280,
+    "size": 5120,
+    "entropy": 4.888434382981946,
+    "output": "011__97_off0x17C00_sz0x1400.bin",
+    "embeddedPEOffsets": []
+  },
+  {
+    "source": "/113",
+    "fileOffset": 102400,
+    "size": 512,
+    "entropy": 3.801765219050061,
+    "output": "012__113_off0x19000_sz0x200.bin",
+    "embeddedPEOffsets": []
+  }
+]

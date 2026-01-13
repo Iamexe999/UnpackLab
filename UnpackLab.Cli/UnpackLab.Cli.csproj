@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\UnpackLab.PE\UnpackLab.PE.csproj" />
+    <ProjectReference Include="..\UnpackLab.Heuristics\UnpackLab.Heuristics.csproj" />
+    <ProjectReference Include="..\UnpackLab.UnpackEngines\UnpackLab.UnpackEngines.csproj" />
+    <ProjectReference Include="..\UnpackLab.Emu\UnpackLab.Emu.csproj" />
+    <ProjectReference Include="..\UnpackLab.Rebuild\UnpackLab.Rebuild.csproj" />
+    <ProjectReference Include="..\UnpackLab.Reporting\UnpackLab.Reporting.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
