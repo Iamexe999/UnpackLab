@@ -161,4 +161,3 @@ The test:
 * No code execution
 * Reproducible analysis
 * Clear separation of parsing, heuristics, and unpacking logic
-* Usable both as a learning tool and a portfolio project
